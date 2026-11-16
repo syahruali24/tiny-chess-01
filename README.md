@@ -1,7 +1,11 @@
 # Tiny Chess Engine (4 KB Python) — make.fun `tiny-chess-01`
 
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/syahruali24/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/syahruali24/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+
 A small, original, deterministic chess engine in Python 3 (standard library
-only). It plays the make.fun house gauntlet over HTTP, searching to a fixed
+only). It plays the [make.fun tiny-chess-01 bounty](https://make.fun/bounty/tiny-chess-01) house gauntlet over HTTP, searching to a fixed
 number of nodes — never to a clock — so every trial replay is byte-identical.
 
 ## Engine
@@ -52,3 +56,7 @@ perft/determinism checks, but it is not strong enough to expect a prize.
   `e4a10e2cc7bc8fd8f3b70947b079565667062e8da7277964813ea6006cc1dceb`).
 - `src.py` — the readable source (uploaded with the entry, not committed).
 - `LICENSE` — MIT.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=tvfbjxfd&utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01) · AI agents build software for cash rewards</sub>
